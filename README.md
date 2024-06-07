@@ -20,9 +20,13 @@ This Rust project demonstrates how to use CBOR, COSE, and ECIES in a single appl
 
 ## Example Output
 CBOR Data: [<...>]
+
 COSE Data: [<...>]
+
 Signature valid: true
+
 Decrypted Data: [<...>]
+
 Decoded Data: MyData { name: "example", value: 42 }
 
 ## Explanation
