@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 ciborium = "0.2"
-cose = "0.4"
+cose = "0.1.4"
 ecies = "0.2"
 rand = "0.8"
 serde = "1.0"
