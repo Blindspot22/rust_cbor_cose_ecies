@@ -19,6 +19,7 @@ This Rust project demonstrates how to use CBOR, COSE, and ECIES in a single appl
 3. Run `cargo run` to execute the application.
 
 ## Example Output
+
 CBOR Data: [<...>]
 
 COSE Data: [<...>]
