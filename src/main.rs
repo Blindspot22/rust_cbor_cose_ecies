@@ -1,6 +1,7 @@
 use serde::{Serialize, Deserialize};
 
 use cose::crypto::{Signer, Verifier};
+
 use cose::sign::{COSESign1Builder, COSESign1};
 use cose::CborSerializable;
 use ecies::{encrypt, decrypt};
