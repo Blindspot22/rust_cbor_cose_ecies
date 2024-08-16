@@ -36,4 +36,4 @@ Decoded Data: MyData { name: "example", value: 42 }
 - It then signs the CBOR data using COSE with RSA keys.
 - It verifies the signed COSE data.
 - It encrypts the CBOR data using ECIES and then decrypts it.
-- Finally, it deserializes the decrypted CBOR data back into the original Rust struct.
+- Finally, it deserializes the decrypted CBOR data back into the original Rust struct.. 
